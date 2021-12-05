@@ -1,0 +1,16 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "Task Manger Tests",
+  "main": "index.js",
+  "scripts": {
+    "cy:open:local": "cypress open --env ENV=local",
+    "cy:run:local": "cypress run --env ENV=local"
+  },
+  "keywords": [],
+  "author": "PJ",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.0"
+  }
+}

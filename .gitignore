@@ -1,0 +1,9 @@
+
+#dependencies
+node_modules/
+
+#Ignore files / folders generated at run time
+*.log
+*.lock
+*.tmp
+videos/
